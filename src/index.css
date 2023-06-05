@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.productlist{
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+
+}
+.footeritem{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0px;
+}

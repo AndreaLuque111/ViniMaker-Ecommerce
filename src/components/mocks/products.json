@@ -1,0 +1,211 @@
+[
+   {
+      "_id":1,
+      "title":"Vinilo Noche Estrellada",
+      "isNew":true,
+      "oldPrice":"200",
+      "price":150,
+      "description":"Vinilo, de color topacio para una noche estrellada.",
+      "category":"Moderno",
+      "image":"https://i.ibb.co/FsRCyH1/vinilo-3.jpg",
+      "rating":4
+   },
+   {
+      "_id": 2,
+      "title": "Vinilo Océano Profundo",
+      "isNew": false,
+      "oldPrice": "250",
+      "price": 200,
+      "description": "Vinilo, de color azul profundo para un ambiente oceánico.",
+      "category": "Moderno",
+      "image": "https://i.ibb.co/NtTcDpZ/Dise-o-sin-t-tulo.png",
+      "rating": 5
+   },
+   {
+      "_id": 3,
+    "title": "Vinilo Bosque Encantado",
+    "isNew": true,
+    "oldPrice": "300",
+    "price": 250,
+    "description": "Vinilo, de color verde para un ambiente de bosque encantado.",
+    "category": "Moderno",
+    "image": "https://i.ibb.co/mRmTLsB/Dise-o-sin-t-tulo-1.png",
+    "rating": 4
+  },
+  {
+    "_id": 4,
+    "title": "Vinilo Atardecer en la Playa",
+    "isNew": false,
+    "oldPrice": "350",
+    "price": 300,
+    "description": "Vinilo, de color naranja para un ambiente de atardecer en la playa.",
+    "category": "Cielo",
+    "image": "https://i.ibb.co/NskRxsh/Dise-o-sin-t-tulo-2.png",
+    "rating": 5
+   },
+   {
+      "_id": 5,
+    "title": "Vinilo Cielo Nublado",
+    "isNew": true,
+    "oldPrice": "400",
+    "price": 350,
+    "description": "Vinilo, de color gris para un ambiente de cielo nublado.",
+    "category": "Cielo",
+    "image": "https://i.ibb.co/L09v9G9/Dise-o-sin-t-tulo-3.png",
+    "rating": 4
+  },
+  {
+    "_id": 6,
+    "title": "Vinilo Montañas Nevadas",
+    "isNew": false,
+    "oldPrice": "450",
+    "price": 400,
+    "description": "Vinilo, de color blanco para un ambiente de montañas nevadas.",
+    "category": "Paisajismo",
+    "image": "https://i.ibb.co/2kGyGhV/Dise-o-sin-t-tulo-4.png",
+    "rating": 5
+   },
+   {
+      "_id": 7,
+      "title": "Vinilo Desierto Cálido",
+      "isNew": true,
+      "oldPrice": "500",
+      "price": 450,
+      "description": "Vinilo, de color amarillo para un ambiente de desierto cálido.",
+      "category": "Paisajismo",
+      "image": "https://i.ibb.co/G714ktm/Dise-o-sin-t-tulo-5.png",
+      "rating": 4
+    },
+    {
+      "_id": 8,
+      "title": "Vinilo Lago Tranquilo",
+      "isNew": false,
+      "oldPrice": "550",
+      "price": 500,
+      "description": "Vinilo, de color azul claro para un ambiente de lago tranquilo.",
+      "category": "Paisajismo",
+      "image": "https://i.ibb.co/vYwkgs2/Dise-o-sin-t-tulo-6.png",
+      "rating": 5
+    },
+    {
+      "_id": 9,
+      "title": "Vinilo Campo de Flores",
+      "isNew": true,
+      "oldPrice": "600",
+      "price": 550,
+      "description": "Vinilo, de color rosa para un ambiente de campo de flores.",
+      "category": "Naturaleza",
+      "image": "https://i.ibb.co/YkrFQNY/Dise-o-sin-t-tulo-7.png",
+      "rating": 4
+    },
+    {
+      "_id": 10,
+      "title": "Vinilo Cataratas Majestuosas",
+      "isNew": false,
+      "oldPrice": "650",
+      "price": 600,
+      "description": "Vinilo, de color verde oscuro para un ambiente de cataratas majestuosas.",
+      "category":"Paisajismo",
+      "image":"https://i.ibb.co/DYdr98j/Dise-o-sin-t-tulo-8.png",
+      "rating":5
+   },
+   {
+      "_id": 11,
+        "title": "The Beatles: Abbey Road",
+        "isNew": false,
+        "oldPrice": "650",
+        "price": 600,
+        "description": "Vinyl record of The Beatles' album Abbey Road.",
+        "category":"Bandas",
+        "image":"https://i.ibb.co/FXNRpxS/Dise-o-sin-t-tulo-9.png",
+        "rating":5
+    },
+    {
+        "_id": 12,
+        "title": "Vinilo: Espacio",
+        "isNew": false,
+        "oldPrice": "650",
+        "price": 600,
+        "description": "Vinilo del espacio un poco colorido",
+        "category":"Space",
+        "image":"https://i.pinimg.com/564x/2f/5e/98/2f5e98ab1d67b9249830df8e2cb3200c.jpg",
+        "rating":5
+    },
+    {
+        "_id": 13,
+        "title": "Arte:Naturaleza",
+        "isNew": false,
+        "oldPrice": "650",
+        "price": 600,
+        "description": "Este vinilo nos muestra un poco de lo que nos rodea.",
+        "category":"paisajismo",
+        "image":"https://i.etsystatic.com/34244382/r/il/a05ca3/3758270001/il_794xN.3758270001_cuwf.jpg",
+        "rating":5
+   },
+   {
+      "_id":14,
+      "title":"Vinilo abstracto",
+      "isNew":false,
+      "oldPrice":"80",
+      "price":50,
+      "description":"Arte incomprendido",
+      "category":"lower price",
+      "image":"https://i.etsystatic.com/28667691/r/il/e00cc2/3025436523/il_794xN.3025436523_odi0.jpg",
+      "rating":2
+   },
+   {
+      "_id":15,
+      "title":"vinilo El columpio",
+      "isNew":false,
+      "oldPrice":"120",
+      "price":100,
+      "description":"Querer representar que la vida es estar en un columpio ",
+      "category":"lower price",
+      "image":"https://i.etsystatic.com/28667691/r/il/3fa2d5/3602603040/il_794xN.3602603040_p9rr.jpg",
+      "rating":4
+   },
+   {
+      "_id":16,
+      "title":"Vinilo Kiss",
+      "isNew":false,
+      "oldPrice":"400",
+      "price":350,
+      "description":"Vinilo representativo de la famosa banda KISS",
+      "category":"Bandas",
+      "image":"https://i.pinimg.com/564x/cf/b2/f3/cfb2f30a55d20a28046bea5a2960b326.jpg",
+      "rating":4
+   },
+   {
+      "_id":17,
+      "title":"Vinilo Solo en la luna",
+      "isNew":false,
+      "oldPrice":"140",
+      "price":120,
+      "description":"Astronauta solo en el espacio",
+      "category":"Space",
+      "image":"https://i.etsystatic.com/28667691/r/il/402a02/3220077514/il_680x540.3220077514_iniq.jpg",
+      "rating":3
+   },
+   {
+      "_id":18,
+      "title":"Vinilo AC DC",
+      "isNew":false,
+      "oldPrice":"250",
+      "price":190,
+      "description":"Una de las bandas de rock mas famosas de la historia",
+      "category":"Bandas",
+      "image":"https://i.etsystatic.com/16161733/r/il/cf43d9/1366655029/il_794xN.1366655029_q9ob.jpg",
+      "rating":4
+   },
+   {
+      "_id":19,
+      "title":"The Smiths",
+      "isNew":false,
+      "oldPrice":"180",
+      "price":170,
+      "description":"Famosa banda de rock en ingles",
+      "category":"Bandas",
+      "image":"https://i.etsystatic.com/23691318/r/il/deb91f/2405061711/il_794xN.2405061711_2l1r.jpg",
+      "rating":3
+   }
+]
